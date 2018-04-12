@@ -1,0 +1,29 @@
+{
+  name = "Gruvbox Dark";
+  color0 = "#161819";
+  color1 = "#f73028";
+  color10 = "#868715";
+  color11 = "#cc881a";
+  color12 = "#377375";
+  color13 = "#a04b73";
+  color14 = "#578e57";
+  color15 = "#e6d4a3";
+  color2 = "#aab01e";
+  color3 = "#f7b125";
+  color4 = "#719586";
+  color5 = "#c77089";
+  color6 = "#7db669";
+  color7 = "#faefbb";
+  color8 = "#7f7061";
+  color9 = "#be0f17";
+  background = "#1e1e1e";
+  badge = "#ff0000";
+  bold = "#978771";
+  cursor = "#bbbbbb";
+  cursor-guide = "#a6e8ff";
+  cursor-text = "#ffffff";
+  foreground = "#e6d4a3";
+  link = "#0645ad";
+  selected-text = "#978771";
+  selection = "#685c51";
+}

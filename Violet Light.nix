@@ -1,0 +1,29 @@
+{
+  name = "Violet Light";
+  color0 = "#56595c";
+  color1 = "#c94c22";
+  color10 = "#738a04";
+  color11 = "#a57705";
+  color12 = "#2176c7";
+  color13 = "#c61c6f";
+  color14 = "#259286";
+  color15 = "#c9c6bd";
+  color2 = "#85981c";
+  color3 = "#b4881d";
+  color4 = "#2e8bce";
+  color5 = "#d13a82";
+  color6 = "#32a198";
+  color7 = "#d3d0c9";
+  color8 = "#45484b";
+  color9 = "#bd3613";
+  background = "#fcf4dc";
+  badge = "#ff0000";
+  bold = "#475b62";
+  cursor = "#536870";
+  cursor-guide = "#a6e8ff";
+  cursor-text = "#fcf4dc";
+  foreground = "#536870";
+  link = "#0645ad";
+  selected-text = "#fcf4dc";
+  selection = "#595ab7";
+}

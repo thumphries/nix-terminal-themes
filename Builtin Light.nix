@@ -1,0 +1,29 @@
+{
+  name = "Builtin Light";
+  color0 = "#000000";
+  color1 = "#bb0000";
+  color10 = "#55ff55";
+  color11 = "#ffff55";
+  color12 = "#5555ff";
+  color13 = "#ff55ff";
+  color14 = "#55ffff";
+  color15 = "#ffffff";
+  color2 = "#00bb00";
+  color3 = "#bbbb00";
+  color4 = "#0000bb";
+  color5 = "#bb00bb";
+  color6 = "#00bbbb";
+  color7 = "#bbbbbb";
+  color8 = "#555555";
+  color9 = "#ff5555";
+  background = "#ffffff";
+  badge = "#ff0000";
+  bold = "#000000";
+  cursor = "#000000";
+  cursor-guide = "#a6e8ff";
+  cursor-text = "#ffffff";
+  foreground = "#000000";
+  link = "#0645ad";
+  selected-text = "#000000";
+  selection = "#b5d5ff";
+}

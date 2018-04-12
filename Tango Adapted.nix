@@ -1,0 +1,29 @@
+{
+  name = "Tango Adapted";
+  color0 = "#000000";
+  color1 = "#ff0000";
+  color10 = "#93ff00";
+  color11 = "#fff121";
+  color12 = "#88c9ff";
+  color13 = "#e9a7e1";
+  color14 = "#00feff";
+  color15 = "#f6f6f4";
+  color2 = "#59d600";
+  color3 = "#f0cb00";
+  color4 = "#00a2ff";
+  color5 = "#c17ecc";
+  color6 = "#00d0d6";
+  color7 = "#e6ebe1";
+  color8 = "#8f928b";
+  color9 = "#ff0013";
+  background = "#ffffff";
+  badge = "#ff2600";
+  bold = "#000000";
+  cursor = "#000000";
+  cursor-guide = "#b3ecff";
+  cursor-text = "#ffffff";
+  foreground = "#000000";
+  link = "#005cbb";
+  selected-text = "#000000";
+  selection = "#c1deff";
+}

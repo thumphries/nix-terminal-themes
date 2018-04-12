@@ -1,0 +1,29 @@
+{
+  name = "Red Planet";
+  color0 = "#202020";
+  color1 = "#8c3432";
+  color10 = "#869985";
+  color11 = "#ebeb91";
+  color12 = "#60827e";
+  color13 = "#de4974";
+  color14 = "#38add8";
+  color15 = "#d6bfb8";
+  color2 = "#728271";
+  color3 = "#e8bf6a";
+  color4 = "#69819e";
+  color5 = "#896492";
+  color6 = "#5b8390";
+  color7 = "#b9aa99";
+  color8 = "#676767";
+  color9 = "#b55242";
+  background = "#222222";
+  badge = "#ff2600";
+  bold = "#ebeb91";
+  cursor = "#c2b790";
+  cursor-guide = "#b3ecff";
+  cursor-text = "#202020";
+  foreground = "#c2b790";
+  link = "#005cbb";
+  selected-text = "#bcb291";
+  selection = "#1b324a";
+}

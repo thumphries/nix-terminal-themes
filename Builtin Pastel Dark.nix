@@ -1,0 +1,29 @@
+{
+  name = "Builtin Pastel Dark";
+  color0 = "#4f4f4f";
+  color1 = "#ff6c60";
+  color10 = "#ceffac";
+  color11 = "#ffffcc";
+  color12 = "#b5dcff";
+  color13 = "#ff9cfe";
+  color14 = "#dfdffe";
+  color15 = "#ffffff";
+  color2 = "#a8ff60";
+  color3 = "#ffffb6";
+  color4 = "#96cbfe";
+  color5 = "#ff73fd";
+  color6 = "#c6c5fe";
+  color7 = "#eeeeee";
+  color8 = "#7c7c7c";
+  color9 = "#ffb6b0";
+  background = "#000000";
+  badge = "#ff0000";
+  bold = "#ffffff";
+  cursor = "#ffa560";
+  cursor-guide = "#a6e8ff";
+  cursor-text = "#ffffff";
+  foreground = "#bbbbbb";
+  link = "#0645ad";
+  selected-text = "#f2f2f2";
+  selection = "#363983";
+}

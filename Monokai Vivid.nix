@@ -1,0 +1,29 @@
+{
+  name = "Monokai Vivid";
+  color0 = "#121212";
+  color1 = "#fa2934";
+  color10 = "#b1e05f";
+  color11 = "#fff26d";
+  color12 = "#0443ff";
+  color13 = "#f200f6";
+  color14 = "#51ceff";
+  color15 = "#ffffff";
+  color2 = "#98e123";
+  color3 = "#fff30a";
+  color4 = "#0443ff";
+  color5 = "#f800f8";
+  color6 = "#01b6ed";
+  color7 = "#ffffff";
+  color8 = "#838383";
+  color9 = "#f6669d";
+  background = "#121212";
+  badge = "#ff0000";
+  bold = "#ffffff";
+  cursor = "#fb0007";
+  cursor-guide = "#a6e8ff";
+  cursor-text = "#ea0009";
+  foreground = "#f9f9f9";
+  link = "#e53fff";
+  selected-text = "#000000";
+  selection = "#ffffff";
+}

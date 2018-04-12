@@ -1,0 +1,29 @@
+{
+  name = "Purple Rain";
+  color0 = "#000000";
+  color1 = "#ff260e";
+  color10 = "#b8e36e";
+  color11 = "#ffd852";
+  color12 = "#00a6ff";
+  color13 = "#ac7bf0";
+  color14 = "#74fdf3";
+  color15 = "#ffffff";
+  color2 = "#9be205";
+  color3 = "#ffc400";
+  color4 = "#00a2fa";
+  color5 = "#815bb5";
+  color6 = "#00deef";
+  color7 = "#ffffff";
+  color8 = "#565656";
+  color9 = "#ff4250";
+  background = "#21084a";
+  badge = "#ff2600";
+  bold = "#333333";
+  cursor = "#ff271d";
+  cursor-guide = "#b3ecff";
+  cursor-text = "#ff271d";
+  foreground = "#fffbf6";
+  link = "#0052bb";
+  selected-text = "#ffffff";
+  selection = "#287691";
+}
